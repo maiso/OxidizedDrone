@@ -1,0 +1,7 @@
+[package]
+name = "OxidizedDrone"
+version = "0.1.0"
+authors = ["maiso"]
+edition = "2018"
+
+[dependencies]
